@@ -1,0 +1,6 @@
+.env
+phonepe_venv/
+venv/
+__pycache__/
+*.pyc
+dataset/.git
